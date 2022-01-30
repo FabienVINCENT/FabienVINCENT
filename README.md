@@ -4,7 +4,7 @@
 
 - 🌱 J'aime apprendre et apprendre encore
 - 👯 J'aime collaborer avec d'autre personne pour apprendre encore plus
-- 🥅 2021 : j'aimerais participer à des projets Open Source
+- 🥅 2022 : j'aimerais participer à des projets Open Source
 - ⚡ Passionner d'informatique et de nouvelles technologies
 
 ### Contact :
